@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://olliverpersson.github.io/reframesustainabilityconf/sitemap.xml
