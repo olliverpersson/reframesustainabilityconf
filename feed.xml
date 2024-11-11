@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Reframe Sustainability</title>
-    <link href="https://olliverpersson.github.io/reframesustainabilityconf/feed.xml" rel="self" />
-    <link href="https://olliverpersson.github.io/reframesustainabilityconf" />
+    <link href="https://reframesustainability.se/feed.xml" rel="self" />
+    <link href="https://reframesustainability.se" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>-</name>
     </author>
-    <id>https://olliverpersson.github.io/reframesustainabilityconf</id>
+    <id>https://reframesustainability.se</id>
 
 </feed>

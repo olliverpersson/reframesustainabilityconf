@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://olliverpersson.github.io/reframesustainabilityconf/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://reframesustainability.se/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://olliverpersson.github.io/reframesustainabilityconf/</loc>
+<loc>https://reframesustainability.se/</loc>
 </url>
 <url>
-<loc>https://olliverpersson.github.io/reframesustainabilityconf/foeretag/</loc>
+<loc>https://reframesustainability.se/foeretag/</loc>
 <lastmod>2024-11-10T19:54:59+01:00</lastmod>
 </url>
 <url>
-<loc>https://olliverpersson.github.io/reframesustainabilityconf/student/</loc>
+<loc>https://reframesustainability.se/student/</loc>
 <lastmod>2024-11-10T20:48:32+01:00</lastmod>
 </url>
 </urlset>

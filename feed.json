@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Reframe Sustainability",
     "description": "",
-    "home_page_url": "https://olliverpersson.github.io/reframesustainabilityconf",
-    "feed_url": "https://olliverpersson.github.io/reframesustainabilityconf/feed.json",
+    "home_page_url": "https://reframesustainability.se",
+    "feed_url": "https://reframesustainability.se/feed.json",
     "user_comment": "",
-    "icon": "https://olliverpersson.github.io/reframesustainabilityconf/media/website/Screenshot-2024-11-10-19.27.54.png",
+    "icon": "https://reframesustainability.se/media/website/Screenshot-2024-11-10-19.27.54.png",
     "author": {
         "name": "-"
     },
